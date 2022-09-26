@@ -1,1 +1,1 @@
-this is a redirection directory
+this is a redirection director.y
