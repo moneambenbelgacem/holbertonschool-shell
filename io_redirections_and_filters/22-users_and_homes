@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd |sort
+grep -e "^$HOMEUSER" /etc/passwd | rev | cut -d ":" -f 7,2 | rev | sort -u
