@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "*" | ls -lht
+find -type f  "*" | ls -lht
