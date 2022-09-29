@@ -1,2 +1,3 @@
 #!/bin/bash
+export $BINARY
 echo $((2#${B2D[$BINARY]}))
