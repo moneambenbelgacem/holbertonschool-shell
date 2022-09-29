@@ -1,3 +1,2 @@
 #!/bin/bash
-var=whoami
-echo $("hello "$var); 
+echo $("hello $USER"); 
