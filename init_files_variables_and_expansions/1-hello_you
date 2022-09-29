@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $("hello "whoami); 
+var=whoami
+echo $("hello "$var); 
